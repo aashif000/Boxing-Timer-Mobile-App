@@ -9,14 +9,6 @@ A customizable offline Boxing Timer app built with React Native and Expo. The ap
 - **Start, Stop, and Reset**: Control your timer with start, stop, and reset buttons for flexibility during workouts.
 - **Offline Functionality**: Fully operational offline, no internet required.
 
-## Screenshots
-| Main Screen | Timer Screen | Customization |
-|-------------|--------------|---------------|
-| ![screenshot1](assets/screenshots/main-screen.png) | ![screenshot2](assets/screenshots/timer.png) | ![screenshot3](assets/screenshots/customize.png) |
-
-## Demo
-Add a short GIF or video link here showing how the app works.
-
 ## Installation
 
 1. **Clone the repository**:
